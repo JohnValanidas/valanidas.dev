@@ -1,0 +1,12 @@
+html {
+  color: #f2ddd5;
+  font-family: 'Overpass', sans-serif;
+  background-color: #445b6b;
+}
+
+.placeholder {
+  position: relative;
+  top: 200px;
+  left: 25%;
+  width: fit-content;
+}
